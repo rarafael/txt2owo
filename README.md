@@ -2,6 +2,8 @@
 
 convert text input into OwO output
 
+![image](https://github.com/rarafael/txt2owo/blob/020f3d3fe3f3a1a82ea3e9b39f965cad1d6b27a5/screenshot.png)
+
 ### Usage
 ```
 txt2owo [...]
